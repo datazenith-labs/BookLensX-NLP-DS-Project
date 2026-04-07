@@ -1,5 +1,7 @@
 # BookLensX: AI-Powered Book Intelligence System
-
+<p align="center">
+  <img src="assets/banner.png" alt="BookLensX Banner"/>
+</p>
 > Transforming book data into intelligent insights using NLP and multi-task learning
 
 ---
